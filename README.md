@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @koushikM07
-- 👀 I’m interested in MachineLearning , Data Science and little bit of web dev.
+- 👀 I’m interested in Machine Learning , Data Science and little bit of web dev.
 - 🌱 I’m currently learning Machine Learning and React.js
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me 
